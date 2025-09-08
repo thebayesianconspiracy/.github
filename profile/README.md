@@ -5,8 +5,6 @@
 
 We're The Bayesian Conspiracy. We were many different people at many different points of time, going by many different collective names. We're friends from IIT Kharagpur, currently in different parts of the world. We love science, we love programming and we love hackathons. We believe, as many people do, that technology is magic. `The Bayesian Conspiracy` has won (some award) in over 20 hackathons it’s been to. We want to spread our love for building prototypes!
 
-We’re The Bayesian Conspiracy. We were many different people at many different points of time, going by many different collective names. Currently, we are spread across the world trying to figure how we can get together and hack again. We started as friends from IIT Kharagpur. We love science, and we love programming and we love hackathons. We believe, as many people do, that technology is the tool with which we’ll truly scale solutions to a global audience. 
-
 The Bayesian Conspiracy has won (some award) in 20+ hackathons out of the ~35 it’s been to. We’ve built product hacks for messaging, insurance, interior design, decentralized trade, personal medication management and multimodal transportation. We’ve worked on technologies like Augmented Reality,  IoT, blockchain, Deep Learning, chatbots, voicebots etc. apart from the usual suspects (Node, React, Python etc). When not doing hackathons, we work on a host of personal side projects about things that amuse us. We use the opportunity of hackathons to explore new technologies, especially to understand business problems around domains we wouldn’t otherwise think about, and to make some sweet money in the process :)
 
 ### What is in this for you?
