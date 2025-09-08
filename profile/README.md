@@ -19,7 +19,7 @@ Some of us are still doing side-projects of some kind, some for personal product
 - Arpit Tarang [IITKGP, Ex-Google, Ex-udaan, now back to doing GenAI hackathons for a living]
 - Mihir Rege [IITKGP, ex-Palantir, now at Deep Mind]
 - Rishi Mehta [IITKGP, ex-Google, Now at Deep Mind] 
-- Soumyadeep Mukherjee [IITKGP, ex-Appdynamics, ex-Morphle, ex-udaan, now founder at [dashtoon](dashtoon.com).
+- Soumyadeep Mukherjee [IITKGP, ex-Appdynamics, ex-Morphle, ex-udaan, now founder at [dashverse](dashverse.ai).
 - Sreejith PP [IITKGP, Ex-Elanic, ex-Gojek, Now at Meta London]
 - Vikrant Varma [IITKGP, Ex-Twitter London, ex-Palantir, now at Deep Mind]
 - Vivek Aithal [IITKGP, UCB, Ex-Ola, Ex-Go-Jek, Ex-Morphle, Ex-Locus, Now at comma.ai]
